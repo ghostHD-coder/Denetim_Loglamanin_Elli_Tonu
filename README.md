@@ -10,6 +10,10 @@ Dikkat
 Konular içerisinde tüm audit GPO’larına yer verilmeyeceği için içerikte eksiklikler olacaktır. İlgili 
 döküman rehber niteliğindedir, fakat bütünü kapsamamaktadır.
 
+![image](https://github.com/user-attachments/assets/3d25e330-255c-4dad-b80b-89c9dc3201bd)
+
+![image](https://github.com/user-attachments/assets/6b41b67d-58d7-4a9b-9fbe-bbd565f45b54)
+
 
 
 
